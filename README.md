@@ -42,6 +42,4 @@ using `# TODO`. These tasks have to be completed for the app to work.
 
 1. It's not possible to mark a pet as sold now. This needs to be
    fixed.
-1. Clicking on a tag will show you a view similar to the homepage but
-   with only the pets with that tag. This is not implemented now. 
 
